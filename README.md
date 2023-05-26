@@ -6,4 +6,4 @@ Agrupamento (clusterização) de clientes por categorias geradas por k-means de 
 | :sparkles: Nome        | **Agrupamento (clusterização) de clientes de sorveteria para campanha de marketing**
 | :label: Tecnologias | scikit-learn, pandas, python, k-means, seaborn
 
-![](/sorvete.jpeg#vitrinedev)
+![](/sorvete.jpg#vitrinedev)
